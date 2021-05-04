@@ -9,6 +9,9 @@ and yess. I never forget to make sure all invention are fully usable out of the 
 
 # Have fun
 cool and good.
+## misc
+### inspired from
+- https://github.com/mojombo/ his profile has readme. I read https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme oh that's how you do that. thanks, Mr. Vice GitHub. cool and good amazing awesome!
 # Navigation
 - Go back https://cointr.ee/joelwindows7
 - Odysee https://odysee.com/@JOELwindows7
